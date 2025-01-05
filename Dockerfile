@@ -1,3 +1,4 @@
+ARG stopSnykFromScanning=""
 FROM ruby:2.7-alpine
 
 WORKDIR /app
